@@ -10,14 +10,14 @@ A chat made in python
 This is a program that create a server and you can connect to the server from the client with sockets. You can connect the clients you want because this program use threads too. 
 
 To start the program, clone the repository, go to the folder and then run the python script.
-```
+```sh
 git clone https://github.com/iixn/terminal-multichat
 cd terminal-multichat/terminal-multichat
 python server.py
 ```
 
 Now, from other terminal, go again to the folder where is the server's file and then run the client's script
-```
+```sh
 python client.py
 ```
 
