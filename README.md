@@ -23,5 +23,7 @@ python client.py
 
 You can connect the clients you want, but is only for demostration (not necessary)
 
-*IMPORTANT*
+# IMPORTANT
 
+To close this program, the terminal that are clients, you can stop it by clicking "ctrl + c"
+The terminal that is server, close it manually. Ctrl + c won't work because the window is blocked by the sockets
